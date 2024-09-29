@@ -1,0 +1,4 @@
+.nav-link:hover .tab-icon {
+    fill: blue;
+    background: rgba(173, 216, 230, 0.469);
+}
